@@ -1,2 +1,2 @@
 # djweb
-Proyecto en Django
+Proyecto en Django Test Sincronia GitHub
